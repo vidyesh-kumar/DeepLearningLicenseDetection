@@ -48,7 +48,7 @@ python ocr_image.py
 python ocr_video.py
 ```
 
-### Detect and OCR the video
+### Detect and OCR the Webcam
 
 ```
 python ocr_webcam.py
