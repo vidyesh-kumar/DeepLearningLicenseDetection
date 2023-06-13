@@ -3,10 +3,11 @@
 ![Using Easy YOLOv7 by Theos AI]
 
 This a clean and easy-to-use implementation of [YOLOv7](https://github.com/WongKinYiu/yolov7) in PyTorch.
-Refer [Blog](https://blog.theos.ai) and [YouTube Channel](https://www.youtube.com/@theos-ai/)!
+
+Please Refer the [Blog](https://blog.theos.ai) and [YouTube Channel](https://www.youtube.com/@theos-ai/) for more details. !
 
 ### Install all the dependencies
-Always install the requirements inside a [virtual environment](https://docs.python.org/3/library/venv.html):
+Always install the requirements inside a [virtual environment] only.(https://docs.python.org/3/library/venv.html):
 ```
 pip install -r requirements.txt
 ```
