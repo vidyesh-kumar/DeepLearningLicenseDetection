@@ -2,8 +2,7 @@
 
 ![Using Easy YOLOv7 by Theos AI]
 
-This a clean and easy-to-use implementation of [YOLOv7](https://github.com/WongKinYiu/yolov7) in PyTorch, made with ❤️ by [Theos AI](https://theos.ai).
-
+This a clean and easy-to-use implementation of [YOLOv7](https://github.com/WongKinYiu/yolov7) in PyTorch.
 Refer [Blog](https://blog.theos.ai) and [YouTube Channel](https://www.youtube.com/@theos-ai/)!
 
 ### Install all the dependencies
