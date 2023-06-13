@@ -48,10 +48,10 @@ python ocr_image.py
 python ocr_video.py
 ```
 
-### Detect and OCR the Webcam
+### Detect and OCR the webcam
 
 ```
 python ocr_webcam.py
 ```
 
-Note: Project is a Modified Project from Easy-yolov7 by Theoas AI.
+Note: Project is a Modified Project from Easy-yolov7 by Theos AI.
